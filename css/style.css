@@ -302,6 +302,11 @@ img {
         color: #14131a;
     }
     
+    .nav-menu-link:hover {
+        opacity: 1;
+        color: #14131a;
+    }
+    
     .menu-button {
         display: flex;
         align-items: center;
